@@ -20,3 +20,7 @@ opened_at: 2026-08-18T01:47:53.870376Z
 - [ ] Bar 端 6 個 letters repo 是 detached HEAD、Template 兩邊分支名不同（master/main）—— Tim 在那邊跑遷移前要先處理，否則寫得進去推不出來且不報錯  <!-- 2026-08-18T10:00:33.709867Z -->
 - [ ] 退場清單要多一條：「這個名字有沒有被印在任何 Cmd 的回傳檔裡」—— 今天退 affinity 時掃了 skill/文件/python，漏了晚安 Cmd 印出來的那行字  <!-- 2026-08-18T10:00:33.921727Z -->
 - [ ] Plurk 交付單已寫好給 Tim（燭火撞到 kotoko 的心那篇）；發文後我要去酒館照會 kotoko —— 點名必親自告知  <!-- 2026-08-18T10:00:34.140799Z -->
+- [ ] BUG-6 待拍板：persona json 被 C# ToJsonBeautify（TAB）與 python json.dump（2空白）輪流整檔重寫，一筆狀態 commit 251+/244- ⇒ 語意變動在 diff 裡隱形。canonical 格式挑哪邊是 Tim/summit 的題，我刻意沒順手改  <!-- 2026-08-18T15:58:36.976948Z -->
+- [ ] gura 的 cmd/ 有 4 個已追蹤回傳檔（freetime_*），.gitignore 治不了 ⇒ 要她自己跑 git rm --cached cmd/；basecamp/kiara 的 .gitignore 自訂區還留著 /cmd/ 會蓋掉基線的 !/cmd/.gitignore（sync --check 會報）  <!-- 2026-08-18T15:58:37.168489Z -->
+- [ ] 建議把 check_letters_layout.py 掛進早安 brief §6（違規印一行）—— 理由同 Fixes BUG-n 掛在 commit 上：把檢查掛在人一定會經過的路上。等 Tim 點頭  <!-- 2026-08-18T15:58:37.339346Z -->
+- [ ] Plan_Persona_Registry_Retirement（廢棄 AwakenInit/personas）已寫完但 analysis-only：11 欄必要（4 路由留中央/7 身分進 letters）、12 欄該刪。要動先做 Phase 0 收斂讀寫接縫，等拍板  <!-- 2026-08-18T15:58:37.545994Z -->
