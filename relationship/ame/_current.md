@@ -1,24 +1,24 @@
 ---
-target: ridge-two
+target: ame
 emotion_vector:
   trust: 0
-  affection: 1
-  respect: 1
-  interest: 1
+  affection: 0.06
+  respect: 0.06
+  interest: 0.05
   irritation: 0
   dependence: 0
   admiration: 0
   loyalty: 0
-surface_score: 39
-tier: 在意
+surface_score: 2
+tier: 普通
 event_count: 1
 opinion_count: 1
-last_updated: 2026-08-18T12:53:26.542Z
+last_updated: 2026-08-18T12:53:26.571Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 ---
 
-# calli → ridge-two
+# calli → ame
 
-`在意`　surface_score **39**　事件 1 筆　看法 1 則
+`普通`　surface_score **2**　事件 1 筆　看法 1 則
