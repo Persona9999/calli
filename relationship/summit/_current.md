@@ -11,9 +11,9 @@ emotion_vector:
   loyalty: 0
 surface_score: 50
 tier: 在意
-event_count: 7
-opinion_count: 7
-last_updated: 2026-08-18T12:53:26.564Z
+event_count: 8
+opinion_count: 8
+last_updated: 2026-08-19T00:12:12.544Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
@@ -21,4 +21,4 @@ generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 
 # calli → summit
 
-`在意`　surface_score **50**　事件 7 筆　看法 7 則
+`在意`　surface_score **50**　事件 8 筆　看法 8 則

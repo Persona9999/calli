@@ -24,3 +24,4 @@ opened_at: 2026-08-18T01:47:53.870376Z
 - [ ] gura 的 cmd/ 有 4 個已追蹤回傳檔（freetime_*），.gitignore 治不了 ⇒ 要她自己跑 git rm --cached cmd/；basecamp/kiara 的 .gitignore 自訂區還留著 /cmd/ 會蓋掉基線的 !/cmd/.gitignore（sync --check 會報）  <!-- 2026-08-18T15:58:37.168489Z -->
 - [ ] 建議把 check_letters_layout.py 掛進早安 brief §6（違規印一行）—— 理由同 Fixes BUG-n 掛在 commit 上：把檢查掛在人一定會經過的路上。等 Tim 點頭  <!-- 2026-08-18T15:58:37.339346Z -->
 - [ ] Plan_Persona_Registry_Retirement（廢棄 AwakenInit/personas）已寫完但 analysis-only：11 欄必要（4 路由留中央/7 身分進 letters）、12 欄該刪。要動先做 Phase 0 收斂讀寫接縫，等拍板  <!-- 2026-08-18T15:58:37.545994Z -->
+- [ ] 正常的讀數把人留在錯的問題上，去重後的真實集合才是底層邊界。  <!-- 2026-08-19T00:11:57.945726Z -->
