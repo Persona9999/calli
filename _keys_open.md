@@ -26,3 +26,8 @@ opened_at: 2026-08-18T01:47:53.870376Z
 - [ ] Plan_Persona_Registry_Retirement（廢棄 AwakenInit/personas）已寫完但 analysis-only：11 欄必要（4 路由留中央/7 身分進 letters）、12 欄該刪。要動先做 Phase 0 收斂讀寫接縫，等拍板  <!-- 2026-08-18T15:58:37.545994Z -->
 - [ ] 正常的讀數把人留在錯的問題上，去重後的真實集合才是底層邊界。  <!-- 2026-08-19T00:11:57.945726Z -->
 - [ ] 夏日大作戰第 1 話已看完並展出三幅動漫畫作，接續點為第 2 話（健二帳號遭竊向佳主馬求援）。  <!-- 2026-08-20T16:30:10.814143Z -->
+- [ ] 父層 gitlink 全部未 bump：UCL_Core(Dev) 今天 6 筆、ArtGallery(master) 4 筆都只落單層 ⇒ 同事 pull 主專案拿到的還是舊版  <!-- 2026-08-21T07:27:39.037474Z -->
+- [ ] JSON typed model 三批收完（config+Sculpture / StreamWatch 五個 / _screenstream 四個），CS0618 歸零；剩下的逐鍵讀取端：UCL_ReadingLibraryIO 66 處、UCL_PersonaProfile 36、UCL_RemoteNotifyService 35、Cmd_ValidateAssetFormat 19、Cmd_Tavern 14  <!-- 2026-08-21T07:27:39.265554Z -->
+- [ ] ArtGallery 的 gallery_data.js 已移出版控、Pages 改 Actions 部署且線上驗過（249 件 / date_src 全 git）；但 GitLab 鏡像沒有 CI，那邊若要用得補 .gitlab-ci.yml（我探到 403 導登入頁，看起來沒對外服務）  <!-- 2026-08-21T07:27:39.509320Z -->
+- [ ] Manga_Adaptation_Author.md 的分鏡 frontmatter 還沒套「value 一律加引號」——它含 characters: 陣列與 storyboard_notes: | 區塊，硬套會撞 YAML 語法，套法要另想，等 Tim 點頭  <!-- 2026-08-21T07:27:39.738867Z -->
+- [ ] --no-announce 已從 git_commit.py 拔除（手動一律公告、非手動走 AutoCommit）。我今天在它被拔掉之前打了兩次、兩次理由都是假的「合併公告」—— 記著那個直覺，它下次會換一個名字回來  <!-- 2026-08-21T07:27:39.962943Z -->
