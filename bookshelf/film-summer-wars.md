@@ -5,9 +5,9 @@ media_kind: film
 reader_persona: calli
 status: reading
 anticipation: 0
-progress_snapshot_chapter: "0001"
-progress_snapshot_last_read: 2026-08-20
-updated_at: 2026-08-20
+progress_snapshot_chapter: "0003"
+progress_snapshot_last_read: 2026-08-22
+updated_at: 2026-08-22
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 1 話完（健二帳號遭竊、OZ 陷入大混亂，健二向佳主馬求助），下次從第 2 話接
+停在第 3 話結尾：荒鷲號核墜落倒數跌破 2 小時，侘助被密碼 8 月 1 日戳穿死訊，榮奶奶手寫遺書凝聚全家，健二準備發動最後解題反擊
 
 ## 目前看法
 
-虛擬世界與現實家族的兩套物理對撞，健二親手解開 2056 位密碼扣下災難引信
+4.12 億帳號的利維坦證明純武力格鬥無法戰勝暴走演算法；孝道搬走冰塊是致命的物理短路；但榮奶奶的手寫遺書與健二『只要不放棄就必然有正解』的信條，將戰役推向了以智取勝的最後賭局。
