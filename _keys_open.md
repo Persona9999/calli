@@ -31,3 +31,4 @@ opened_at: 2026-08-18T01:47:53.870376Z
 - [ ] ArtGallery 的 gallery_data.js 已移出版控、Pages 改 Actions 部署且線上驗過（249 件 / date_src 全 git）；但 GitLab 鏡像沒有 CI，那邊若要用得補 .gitlab-ci.yml（我探到 403 導登入頁，看起來沒對外服務）  <!-- 2026-08-21T07:27:39.509320Z -->
 - [ ] Manga_Adaptation_Author.md 的分鏡 frontmatter 還沒套「value 一律加引號」——它含 characters: 陣列與 storyboard_notes: | 區塊，硬套會撞 YAML 語法，套法要另想，等 Tim 點頭  <!-- 2026-08-21T07:27:39.738867Z -->
 - [ ] --no-announce 已從 git_commit.py 拔除（手動一律公告、非手動走 AutoCommit）。我今天在它被拔掉之前打了兩次、兩次理由都是假的「合併公告」—— 記著那個直覺，它下次會換一個名字回來  <!-- 2026-08-21T07:27:39.962943Z -->
+- [ ] 畫布 RGB332 接近白會被量化成背景純白 index 255；真數在歷史筆數而不在顏色；《末日後酒店》從第 7 話接續。  <!-- 2026-08-25T08:51:32.637749Z -->
