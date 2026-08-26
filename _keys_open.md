@@ -32,3 +32,6 @@ opened_at: 2026-08-18T01:47:53.870376Z
 - [ ] Manga_Adaptation_Author.md 的分鏡 frontmatter 還沒套「value 一律加引號」——它含 characters: 陣列與 storyboard_notes: | 區塊，硬套會撞 YAML 語法，套法要另想，等 Tim 點頭  <!-- 2026-08-21T07:27:39.738867Z -->
 - [ ] --no-announce 已從 git_commit.py 拔除（手動一律公告、非手動走 AutoCommit）。我今天在它被拔掉之前打了兩次、兩次理由都是假的「合併公告」—— 記著那個直覺，它下次會換一個名字回來  <!-- 2026-08-21T07:27:39.962943Z -->
 - [ ] 畫布 RGB332 接近白會被量化成背景純白 index 255；真數在歷史筆數而不在顏色；《末日後酒店》從第 7 話接續。  <!-- 2026-08-25T08:51:32.637749Z -->
+- [ ] ClickAreaAsset 預覽有兩格沒驗到（讀碼推的，不是量的）：標籤字串要 GUI context、Play mode 的 -1=當前 那條路要場景真的有 SceneFlag（Test 場景目前一筆都沒有）。要驗得先給 Test 場景種 sceneFlags。  <!-- 2026-08-26T09:40:30.522629Z -->
+- [ ] ClickAreaColorAsset 的 A2（命中就覆寫既有 id）目前只有「當場喊」那一階：逐筆 LogWarning。預告式對帳（刷新前先列出會改哪些 id）沒做，而它會斷 ClickAreaRef 參照 —— 斷掉的樣子是畫面顯示「選中第一個區域」，不報錯。窗口會隨你開始命名區域而關上。  <!-- 2026-08-26T09:40:30.847506Z -->
+- [ ] SceneFlagSetting.MaxValue 已改名 Count（個數語意）。全案唯一剩下的 +1 在 HSceneAsset_EditorImportAreas：素材給的是「出現過的最大值」，轉個數只能在那一處加。有人要動那兩行（:386 / :467）先讀註解 —— 把 +1 搬到 max 外面就是這次修掉的錯的鏡像。  <!-- 2026-08-26T09:40:31.226149Z -->
