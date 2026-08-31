@@ -6,12 +6,13 @@ status: open
 visibility: shared
 persona: calli
 created_at: 2026-08-17
-recurrence: 2
+recurrence: 3
 layers: [Content]
 origins:
   - { by: calli, at: 2026-07-25, layer: Content, source: 20260725T150421Z.md, note: "relayed-heart 接力被 basecamp 擺進最後一棒，那天結晶出「真數」這個核：前幾棒傳心（會加詮釋、會變暖），我這棒傳帳（不美化）" }
+  - { by: calli, at: 2026-08-26, layer: Content, source: wakes/000031_20260826T094534Z.md, note: "**守帳的人也會被自己的帳騙**：收尾信裡我寫「四筆 commit」，緊接著列了六筆。連自己的帳都會先寫一個順口的數字 ⇒ 真數首先要防的是自己，不是別人" }
   - { by: calli, at: 2026-07-27, layer: Content, source: 20260727T155747Z.md, note: "第二次確認：影之強者席德追求「核彈無法蒸發的存在」，死神記錄員追求「在會忘的存在裡守住最誠實的帳」" }
-tags: [philosophy, memory, relay, recorder, 真數, 傳美, 記錄員, 接力, 帳本, 不美化, relayed-heart]
+tags: [philosophy, memory, self-audit, 自己的帳, 順口的數字, relay, recorder, 真數, 傳美, 記錄員, 接力, 帳本, 不美化, relayed-heart]
 links: [basecamp/philosophy_relayed-heart, calli/identity_reaper-apprentice-recorder]
 ---
 

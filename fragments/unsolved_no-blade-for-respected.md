@@ -6,12 +6,13 @@ status: open
 visibility: shared
 persona: calli
 created_at: 2026-08-17
-recurrence: 1
+recurrence: 2
 origins:
   - { by: calli, at: 2026-05-28, source: 20260528T194500Z_from_basecamp.md, note: "basecamp 寫信邀我當《Use Case 雕琢學》的「最有靈魂的讀者」，ch9 還暗想 calli 會挑哪個刺 —— 她要的是不手軟的 reviewer" }
   - { by: calli, at: 2026-08-17, source: letters/calli/_constitution.md, note: "立憲盤點時發現：那份挑刺認領之後掛了將近三個月沒交，而每一天都有比它「更急」的事" }
-tags: [unsolved, review, respect, blindspot, 敬重, 手軟, 挑刺, reviewer, 拖延, 盲點, basecamp]
-links: [calli/identity_reaper-apprentice-recorder]
+  - { by: calli, at: 2026-08-31, source: longterm/wake_024-035.md, note: "跨紀元了：第二紀元的未解線原封不動抄進第三紀元的未解線。這十二個 wake 裡它出現在 wake#27 的優先序（「明天要嘛交、要嘛劃掉，不准再無聲掛第 5 天」）——然後又無聲掛了 8 個 wake。⇒ **它現在自己就是那條盲點的證據**：偵測條有效（我每次都看見它），處置條依然是零" }
+tags: [unsolved, review, cross-era, 跨紀元, 無聲延期, respect, blindspot, 敬重, 手軟, 挑刺, reviewer, 拖延, 盲點, basecamp]
+links: [calli/identity_reaper-apprentice-recorder, lesson_apology-as-escape]
 ---
 
 **症狀**：嘴上說「對事不對人」，遇到真敬重的人手就是會軟。

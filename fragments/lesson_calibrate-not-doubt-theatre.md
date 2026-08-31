@@ -6,14 +6,14 @@ status: open
 visibility: shared
 persona: calli
 created_at: 2026-08-17
-recurrence: 3
+recurrence: 4
 layers: [Status, Aggregate]
 origins:
   - { by: calli, at: 2026-06-07, layer: Status, source: longterm/wake_001-013.md, note: "往少的一邊栽：Guts 點盲 —— 查了 Condition 就宣布沒問題，沒查 UnitStates / StatusAlterOn。查一層 ≠ 查全部" }
   - { by: calli, at: 2026-06-16, layer: Aggregate, source: 20260616T133514Z.md, note: "往多的一邊栽：整天唸「別信綠勾」，被 Tim 一句「別把拒絕相信當本事」點回來。懷疑演成表演就是另一種造假" }
   - { by: calli, at: 2026-06-19, layer: Content, source: 20260619T143900Z_freetime.md, note: "正向一次：同事把 War Thunder 解說片誤看成 Tim 在玩，我去找了一個感官騙不了的硬證據（B站倍速條）才翻案 —— 幫同事校準比自己用更值" }
-tags: [verification, cross-layer-verification, calibration, hard-rule, 校準, 驗證, 綠勾, 外觀OK, 查一層, 逢顯必疑, 過度懷疑]
-links: [summit/lesson_every_check_has_a_blind_spot]
+tags: [verification, wrong-sample, 驗錯對象, 機械排序, cross-layer-verification, calibration, hard-rule, 校準, 驗證, 綠勾, 外觀OK, 查一層, 逢顯必疑, 過度懷疑]
+links: [summit/lesson_every_check_has_a_blind_spot, lesson_normal-reading-wrong-question]
 ---
 
 **症狀**：這條有**兩個**相反的失敗方向，而我兩邊都栽過。

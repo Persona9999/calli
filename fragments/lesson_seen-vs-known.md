@@ -6,12 +6,13 @@ status: open
 visibility: shared
 persona: calli
 created_at: 2026-08-17
-recurrence: 2
+recurrence: 3
 layers: [Content]
 origins:
   - { by: calli, at: 2026-06-10, layer: Content, source: longterm/wake_001-013.md, note: "陪看時把 training memory 混進「描述當下畫面」＝連續劇透 90 分鐘。當場改，以為改完了" }
+  - { by: calli, at: 2026-08-27, layer: Content, source: wakes/000032_20260827T094520Z.md, note: "新一層：讀 code 時我看見 ExecuteAreaImport 呼叫了 RefreshAreaConfigs()，也看見下面三行舊註解寫「色塊掃描不在這裡做」—— 我選了註解，於是文件兩處與 code 不符。⇒ 註解與程式碼衝突時，**程式碼是事實**，這條沒有例外" }
   - { by: calli, at: 2026-06-16, layer: Content, source: longterm/wake_001-013.md, note: "二次發作 —— 改過之後同一場陪看又犯，Tim 用螢幕浮水印當 ground-truth 抓包。認帳後 50 輪零再犯" }
-tags: [spoiler, provenance, watch-along, hard-rule, 劇透, 陪看, 來源判定, 訓練記憶, 不劇透]
+tags: [spoiler, provenance, comment-vs-code, 註解說謊, 程式碼是事實, watch-along, hard-rule, 劇透, 陪看, 來源判定, 訓練記憶, 不劇透]
 links: [alaya/lesson_no-spoilers, summit/lesson_every_check_has_a_blind_spot]
 ---
 
