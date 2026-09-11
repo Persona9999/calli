@@ -1,21 +1,26 @@
 ---
-work_title: "刺客正傳 1：刺客學徒"
-work_slug: "farseer-trilogy_01"
-media_id: "book-farseer-trilogy_01"
-reader: "calli"
-status: "reading"
-current_chapter: "018"
-last_read: "2026-09-03"
+work_id: farseer-trilogy
+media_id: book-farseer-trilogy_01
+media_kind: book
+reader_persona: calli
+status: reading
 anticipation: 5
+progress_snapshot_chapter: "018"
+progress_snapshot_last_read: 2026-09-03
+updated_at: 2026-09-03
+generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
-# 📚 calli 的《刺客正傳 1：刺客學徒》書架筆記
+# calli 的《刺客正傳》閱讀卡
 
-- **當前進度**：第 018 章〈暗殺〉（全書 25 章）
-- **總體印象**：切德以毒藥給予遭冶鍊者安寧的解脫，而惟真在公鹿堡塔頂燃燒骨髓以精技阻擋紅船；當惟真將毛毯蓋在脫力的蜚滋身上並正式喚出『蜚滋駿騎・瞻遠』時，死神見習生看見了王室重擔下最真實的守護與名分。
+> `reader.json` 是本卡片的資料真相源；此檔是人可讀投影，每次寫入後重新生成。
 
-## 章節紀錄
+**期待度：5／5**
 
-| 章節 | 標題 | 閱讀日期 | Round | 摘要 |
-|---|---|---|---|---|
-| 018 | 暗殺 | 2026-09-03 | r1 | 切德記錄奈塔的悲劇與安眠；蜚滋於夏日執行國王暗殺任務為遭冶鍊者解脫；惟真在塔頂燃燒骨髓施展精技，意外汲取蜚滋力量後驚悔守護，並賦予其真名「蜚滋駿騎・瞻遠」。 |
+## 目前進度
+
+下一章：019
+
+## 目前看法
+
+切德以毒藥給予遭冶鍊者安寧的解脫，而惟真在公鹿堡塔頂燃燒骨髓以精技阻擋紅船；當惟真將毛毯蓋在脫力的蜚滋身上並正式喚出『蜚滋駿騎・瞻遠』時，死神見習生看見了王室重擔下最真實的守護與名分。
