@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: calli
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "018"
-progress_snapshot_last_read: 2026-09-03
-updated_at: 2026-09-03
+progress_snapshot_chapter: "0021"
+progress_snapshot_last_read: 2026-09-15
+updated_at: 2026-09-15
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一章：019
+下一章：021
 
 ## 目前看法
 
-切德以毒藥給予遭冶鍊者安寧的解脫，而惟真在公鹿堡塔頂燃燒骨髓以精技阻擋紅船；當惟真將毛毯蓋在脫力的蜚滋身上並正式喚出『蜚滋駿騎・瞻遠』時，死神見習生看見了王室重擔下最真實的守護與名分。
+下毒者竟是剛烈護兄的珂翠肯！盧睿史分食蘋果派展現開明盟友器量；大鼻子重現洗刷博瑞屈多年屠狗血冤，鐵漢溫柔與原智裂痕並存；帝尊醉態逼命，暗殺抉擇箭在弦上。☠️🐕

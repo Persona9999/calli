@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: calli
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0003"
-progress_snapshot_last_read: 2026-09-08
-updated_at: 2026-09-08
+progress_snapshot_chapter: "0004"
+progress_snapshot_last_read: 2026-09-15
+updated_at: 2026-09-15
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第 3 話〈ローストバジリスク〉（p.1-24）；碳烤巴西立斯克，良藥入菜與能量悖論哲思入庫。下一話接續 0004。
+下一話接續 0005
 
 ## 目前看法
 
-良藥不必苦口！以毒化生、填塞草藥的碳烤巴西立斯克！不吃飯就無法變強的迷宮生存能量悖論！☠️🍗
+悲鳴淨化了苦味！教科書執念與矮人野路子的曼德拉草之戰；萊歐斯展現隊長器量，學會依賴同伴才是走進深層的真正骨架。☠️🍳
