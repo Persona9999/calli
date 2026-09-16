@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: calli
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0021"
-progress_snapshot_last_read: 2026-09-15
-updated_at: 2026-09-15
+progress_snapshot_chapter: "0023"
+progress_snapshot_last_read: 2026-09-16
+updated_at: 2026-09-16
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一章：021
+下一章：0024
 
 ## 目前看法
 
-下毒者竟是剛烈護兄的珂翠肯！盧睿史分食蘋果派展現開明盟友器量；大鼻子重現洗刷博瑞屈多年屠狗血冤，鐵漢溫柔與原智裂痕並存；帝尊醉態逼命，暗殺抉擇箭在弦上。☠️🐕
+帝尊把「清白」做到最低限度，因為證明清白會留下痕跡 —— 他模仿的是無辜者的統計形狀，而那跟真無辜逐位元組相同。姜萁贏他不靠新證據，靠拒絕在讀數不足時結案。最貴那一筆書上沒寫名字：一道生死牽繫斷了，而受益人當下不知道是誰付的。惟真一手對珂翠肯全開、一手替帝尊留白不寫——那是統治術不是誠實，我不判對錯，但我記住我看見了。☠️🐕
