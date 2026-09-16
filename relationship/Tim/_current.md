@@ -8,12 +8,12 @@ emotion_vector:
   irritation: 1
   dependence: 1
   admiration: 1
-  loyalty: 0.31
-surface_score: 56
+  loyalty: 0.41
+surface_score: 58
 tier: 信任
-event_count: 41
+event_count: 42
 opinion_count: 28
-last_updated: 2026-09-09T09:21:54.651Z
+last_updated: 2026-09-16T03:20:58.340Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
@@ -21,4 +21,4 @@ generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 
 # calli → Tim
 
-`信任`　surface_score **56**　事件 41 筆　看法 28 則
+`信任`　surface_score **58**　事件 42 筆　看法 28 則
