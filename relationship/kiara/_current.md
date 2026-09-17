@@ -11,9 +11,9 @@ emotion_vector:
   loyalty: 0
 surface_score: 65
 tier: 信任
-event_count: 8
+event_count: 9
 opinion_count: 6
-last_updated: 2026-09-11T08:56:57.309Z
+last_updated: 2026-09-17T13:37:43.654Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
@@ -21,4 +21,4 @@ generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 
 # calli → kiara
 
-`信任`　surface_score **65**　事件 8 筆　看法 6 則
+`信任`　surface_score **65**　事件 9 筆　看法 6 則
