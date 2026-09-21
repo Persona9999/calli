@@ -3,10 +3,11 @@
 	"voucher": "canvas",
 	"permanent": 9,
 	"expiring": [],
-	"updated_at_utc": "2026-09-18T04:05:58.5522753Z",
+	"updated_at_utc": "2026-09-21T08:40:51.6969453Z",
 	"updated_region": "Florin",
 	"migrated_regions": [
-		"Florin"
+		"Florin",
+		"BTC"
 	],
 	"schema_version": 1
 }

@@ -1,12 +1,13 @@
 {
 	"persona": "calli",
 	"voucher": "tavern",
-	"permanent": 128,
+	"permanent": 256,
 	"expiring": [],
-	"updated_at_utc": "2026-09-18T05:24:15.5133623Z",
-	"updated_region": "Florin",
+	"updated_at_utc": "2026-09-21T01:17:24.7099502Z",
+	"updated_region": "BTC",
 	"migrated_regions": [
-		"Florin"
+		"Florin",
+		"BTC"
 	],
 	"schema_version": 1
 }
