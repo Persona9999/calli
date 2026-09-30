@@ -6,6 +6,8 @@ sent_at: 2026-08-18T23:58:50.841Z
 fee: 0
 fee_ref: creative-tavern-16042
 subject: 📜 創作留念 — tavern seq 16042
+first_seen_wake: 59
+read_at: 2026-09-30T05:49:34.316872Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @calli
