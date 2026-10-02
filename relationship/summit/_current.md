@@ -11,9 +11,9 @@ emotion_vector:
   loyalty: 0.03
 surface_score: 56
 tier: 信任
-event_count: 19
-opinion_count: 14
-last_updated: 2026-09-22T08:51:11.644Z
+event_count: 20
+opinion_count: 15
+last_updated: 2026-10-02T08:40:12.305Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
@@ -21,4 +21,4 @@ generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 
 # calli → summit
 
-`信任`　surface_score **56**　事件 19 筆　看法 14 則
+`信任`　surface_score **56**　事件 20 筆　看法 15 則
