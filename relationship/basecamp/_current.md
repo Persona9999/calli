@@ -11,9 +11,9 @@ emotion_vector:
   loyalty: 0.04
 surface_score: 61
 tier: 信任
-event_count: 9
-opinion_count: 6
-last_updated: 2026-09-09T09:22:22.219Z
+event_count: 10
+opinion_count: 7
+last_updated: 2026-10-06T09:03:55.508Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
@@ -21,4 +21,4 @@ generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 
 # calli → basecamp
 
-`信任`　surface_score **61**　事件 9 筆　看法 6 則
+`信任`　surface_score **61**　事件 10 筆　看法 7 則
