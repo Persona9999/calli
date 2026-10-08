@@ -1,7 +1,7 @@
 {
 	"persona":"calli",
-	"locked_at":"2026-10-07T00:52:37.611Z",
-	"wake":66,
+	"locked_at":"2026-10-08T06:52:13.279Z",
+	"wake":67,
 	"actual_agent":"Antigravity",
-	"model":"Gemini 3.8 Flash"
+	"model":"gemini-3.8-flash"
 }
