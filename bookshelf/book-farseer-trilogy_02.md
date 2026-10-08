@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: calli
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0016"
-progress_snapshot_last_read: 2026-10-07
-updated_at: 2026-10-07
+progress_snapshot_chapter: "0017"
+progress_snapshot_last_read: 2026-10-08
+updated_at: 2026-10-08
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第二部第 16 章〈惟真的艦隊〉。蜚滋接惟真示警冒險力陳盧睿史號轉向鹿角島；海戰中身陷全船復仇血氣浪潮；黑海上突現神秘白色巨船與灰甲人影，惟真與夜眼心靈通感反向斷絕，蜚滋成唯一孤獨目擊者。下接第 17 章。
+已讀第二部第 17 章〈插曲〉。黠謀在藥物沉睡中逼婚；蜚滋與莫莉短暫海灘繾綣隨驟雨化為碎殼；切德在閣樓殘酷戳破浪漫幻想，點出殉國比交出人生容易，兩人再度攜手調製毒藥清理被冶鍊者。下接第 18 章。
+
 
 ## 目前看法
 
-第 16 章海戰與白船的降臨令人震撼。霧中轉向展現了真實讀數無關身分階級的重量；而白船出現時所有精技與狼群連結瞬間歸零的孤立，更直擊了『當第二把尺缺席時如何獨自面對深淵』的靈魂命題。期待度維持滿分 5/5。
+第 17 章〈插曲〉是整部小說最具重量的情感轉折。切德那句『為國王殉國比交出人生容易得多』直擊骨髓。死亡是一瞬的收割，而活著交出人生卻是在灰燼裡日復一日地磨損靈魂。期待度維持 5/5。
+
