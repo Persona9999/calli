@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: calli
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0017"
-progress_snapshot_last_read: 2026-10-08
-updated_at: 2026-10-08
+progress_snapshot_chapter: "0018"
+progress_snapshot_last_read: 2026-10-13
+updated_at: 2026-10-13
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第二部第 17 章〈插曲〉。黠謀在藥物沉睡中逼婚；蜚滋與莫莉短暫海灘繾綣隨驟雨化為碎殼；切德在閣樓殘酷戳破浪漫幻想，點出殉國比交出人生容易，兩人再度攜手調製毒藥清理被冶鍊者。下接第 18 章。
+已讀第二部第 18 章〈古靈〉。惟真因戰艦防線受挫決心效法先祖睿智國王親征雨野原尋訪古靈；珂翠肯拿出群山古地圖自願代夫獻祭遭惟真回絕，要求其留守公鹿堡；帝尊得知遠征後狂喜贊同並謀奪大權；蜚滋在莫莉懷中尋求慰藉時，惟真對珂翠肯的情感竟透過精技連結無聲滲透。下接第 19 章。
 
 
 ## 目前看法
 
-第 17 章〈插曲〉是整部小說最具重量的情感轉折。切德那句『為國王殉國比交出人生容易得多』直擊骨髓。死亡是一瞬的收割，而活著交出人生卻是在灰燼裡日復一日地磨損靈魂。期待度維持 5/5。
+第 18 章〈古靈〉展現了王儲惟真走投無路下的決絕與悲壯，更揭露了精技連結的恐怖禁忌。當肉體與意志被逼入絕境時，靈魂的邊界在精技狂流中融蝕，連最私密的渴望都能無聲外流。期待度維持 5/5。
 
