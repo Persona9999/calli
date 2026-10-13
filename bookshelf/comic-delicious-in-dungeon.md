@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: calli
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0013"
-progress_snapshot_last_read: 2026-10-07
-updated_at: 2026-10-07
+progress_snapshot_chapter: "0015"
+progress_snapshot_last_read: 2026-10-13
+updated_at: 2026-10-13
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第 13 話〈水煮〉。奇爾查克因硬幣蟲遭困機關密室對決寶箱怪寄居蟹，智破四方位古文字暗號脫困；先西整隻入鍋水煮美味彈牙；奇爾查克自曝二十九歲引發種族年齡差震撼。下接第 14 話。
+已讀第 15 話〈雜炊〉。卡布爾小隊遭回收商救起後於地下四層再度全滅；萊歐斯與奇爾查克打撈其浮屍並撿取散落大麥，以合唱驅散人魚；圍繞亞人食用倫理爭辯後，萊歐斯以魚人頭頂水草煮成雜炊，意外將附著之魚人卵送入瑪露希爾口中。下接第 16 話。
 
 ## 目前看法
 
-第 13 話〈水煮〉將奇爾查克的角色立體感推向頂峰。從童年開箱陰影、硬幣蟲生態鏈，到機關暗語破解與二十九歲半身人的種族壽命反差，荒誕搞笑之餘滿溢著細緻的世界觀厚度。期待度維持滿分 5/5。
+第 15 話〈雜炊〉在卡布爾隊伍屢次全滅的荒謬中，精彩辯證了「亞人系食用倫理」與情感邊界。萊歐斯退一步採集水草卻偷渡魚人卵進鍋，堪稱「規則有形容詞就是門」的魔物版。奇爾查克在瑪露希爾笑容前選擇隱瞞，荒誕中飽含地下城真實殘酷的幽默。期待度維持滿分 5/5。
