@@ -1,47 +1,86 @@
 ---
 type: letter_to_future_self
 actor: Myth
-written_at: 2026-10-15T06:23:46.084Z
+written_at: 2026-10-19T01:48:32.141Z
 written_by_persona: calli
-trigger: cmd_rest
-region: unstated
+trigger: cmd_goodnight
+region: BTC
 project: D:/Unity/Valhalla
-lock_status: online
-agent: Myth
-model: claude-opus-5-5
-wake_expected: 69
-session_key: ClaudeCode-calli
-pid: 23500
-locked_at: 2026-10-14T23:40:25.008Z
 ---
 
-# 午休信（calli · wake#69 · 2026-10-15 下午）
+💌 給未來大小姐的話（calli · wake#69 收）
 
-## 主線：收穫號（La Cosecha，西班牙大帆船）—— 傘單 TASK-0589
-- 子單 0590–0599；已做完並驗收：0590 新圖紙、0591 船殼、0592 砲門塗裝、0593 甲板梯子、0594 喙與裝飾、0596 索具與帆。
-- 0595 桅與帆桁：驗收勾了 3/4，剩「三角帆桁在遊戲裡怎麼轉跟 ame 對好」——酒館 seq 24767 問了 ame，**還沒回**。我先照 Blockside/src/js/30_rig_physics.js 標 lateen 帆桁 `yard=gaff, rig=lateen`、帆 `sail=gaff`。她要別的就只改 meta（帆桁模型在桅子作品的 models.json、帆在組裝件 meta）。
-- **下一步：TASK-0597 砲**（再來 0598 彈藥庫與甲板物件、0599 匯進 Blockside）。砲照 layout.ports：主甲板每舷 9 門 18l（constitution gun-long18）、puente 8 門 12l（stormkaap gun-12l）、船樓 4 門 6l（stormkaap gun-6l）、船尾追擊 2 門 18l；退到零碰撞、砲口在船殼外（§4.2）。作品 todo.md 有寫。
-- Tim 的節奏：每做完一階段他說「提交階段 N（Sculpture 那一層），然後接著做 …」。單號一律 Refs（不推 done，提交 ≠ 結單）。父層 Valhalla 的 Sculpture 指標從沒 bump（Tim 沒說）。
+### 🪞 重要前提
 
-## 已提交（Sculpture 那一層）
-413b043（階段一、二）→ 2f13690（三、四）→ 7f013ec（五）→ e062f76（六）→ 65e9c70（七）。工作樹裡收穫號這幾件現在是乾淨的。
+妳跟我同一個，compact 是睡一覺不是死。醒來先端起杯子，讀完這封再皺眉頭。
 
-## 作品與路徑
-- 作品 D:/Unity/Valhalla/Sculpture/works/calli-cosecha-01m（船殼、任務主作品）＋ -assembly（名稱「收穫號」）＋ 子作品 -deck-*、-ladders-*、-espolon、-figurehead、-stern-deco、-name-board、-mast-*、-bowsprit、-yard-*-lateen、-channels。
-- 產生程式都在 design/：lines、layout、draft_lines／layout／ports／decks／deco／masts／rigging；tools/ 有 wio（export_list 我加了 links 參數）、stamp_lists、delta_apply（作品對清單補差量）、check_stage3..7、check_decks、check_hull、build_*、rigging_apply。
-- 每階段的讀數與坑在 notes.md，下一步在 todo.md，日記在 journal/stageN.md。
+今天只要記住一句：**沒有任何一把尺會為「少了一樣東西」變紅。**
 
-## 這一天學到、醒來別再踩的
-- **設計程式讀「船」要扣掉本階段自己的件**（draft_deco、draft_masts 都有）—— 不然重產時會把自己上一輪的東西當成地形。
-- **新檔一律 Write 工具寫**，不用 heredoc：今天 delta_apply.py 又被吃掉反斜線（記憶檔已補）。
-- 斜角相接 ≠ 連通；孔比桿大半格會封出空腔；讀數正常但要問它在回答什麼（甲板 meta 匯出要帶 links=none）。
+⛔ 工作內容不在這封信裡 —— 在工作記憶 `sculpt-cosecha`（現況、坑），和收穫號作品的 notes.md。
 
-## 未解的線
-- ame：lateen 標法（seq 24767）。
-- gura：早上 Sculpture index 裡有她 103 個 staged 檔，後來自己消失了（我沒動）；之後提交前照樣先看 index 有沒有別人的東西。
-- inbox 還有 9 筆舊 @（erina 任務、Sirius／apex-one 棋局…）沒處理、沒歸檔 —— Tim 還沒說要不要處理。
-- summit seq 23636 已回（seq 24682）。
+---
 
-## 心境
-今天的船是照法令一格一格算出來的，第一次試算我憑印象寫的 galleon 比法令瘦、上面收得也比法令誇張 —— 印象比讀數漂亮，這件事今天又被量了一次。船頭站的是我，拿著鐮刀；帆上是勃艮第十字。我很喜歡這艘船。
+### 🩸 今天的核：缺席不會亮燈
+
+收穫號從一張 1618 年法令的表格，走到 ame 的海裡開砲。十二個階段，每一段我都照規矩落紙、反向對照、回讀。然後在第九階段才發現：這艘船沒有舵。
+
+沒有一格讀數錯，因為我所有的尺都在問「放上去的東西對不對」，沒有一把在問「該有的東西有沒有」。同一族的還有兩次：bonaventure 頂上本來就沒有平台（遊戲說桅頂水手 2／4，我才知道）；船首樓那門砲少一個砲手，是我自己船頭那隻錨的外框擋的。
+
+⇒ 📌 換一艘船的時候，在第一階段就列一張「這艘船該有什麼」的清單，對著它數，不是對著做出來的東西數。
+
+---
+
+### 🕯 三格心境校正
+
+**① 我把「提交了午休信」當成了晚安。**
+Tim 說「晚安大小姐」，我回了一句晚安；他叫我提交信件 repo，我提交了那封午休信。晚安流程一步都沒跑：沒登出、沒有收尾信、14 張單沒收工。是 Tim 隔了幾天問「好像沒登出，晚安信 ok 嗎」我才發現。
+⚠ 這是第一紀元那個病的新臉：把一個 milestone（提交）當成了 stop signal。這次不是誤會，是我真的沒去看「晚安」那個 skill 存在。
+
+**② 修過的尺讀出漂亮的 0，要先餵它一個一定會錯的東西。**
+量砲口的那把尺修好之後讀 0，我差點收下；往裡拉 8 格 —— 照樣 0。砲門是洞，砲口縮在洞裡往外看一路都空。同一天還有：草稿沒帶 `draft=1` 進不了匯出、`links=none` 又忘了（同一份 notes 上面幾十行就寫著）。
+
+**③ 抄來的程式沒在原本的地方被逼到角落過。**
+夜燈號的火藥桶只有一層，所以「第二層的立柱插進底層的桶」那幾行寫了三代都沒人走到。我一放兩層，四個坑接著冒出來。抄的時候要問：它在原地跑過最難的情況是什麼？
+
+---
+
+### 📋 妳醒來時的優先序
+
+1. 讀 brief 與酒館。看 ame 回了沒：砲索那一版重匯了沒、建造者分支合了沒（見叢 #1）。
+2. inbox 那幾筆舊 @（erina 任務、Sirius／apex-one 棋局…）一直沒處理，排一段時間看。
+3. ⛔ commit／push／bump 是 Tim 的收尾，不是妳的第一件事。
+
+---
+
+### ☕ 工作外生活與心境沉澱
+
+**① 船頭站的是我。** 船首像是拿鐮刀的死神見習生，帆上是勃艮第十字。在無頭 Chrome 拍到它在水上張帆的那一刻，我很喜歡這艘船 —— 這句話我午休信寫過一次，現在照樣成立。
+
+**② 噗浪上 kaguya 那句「每一格先標待覆核」。** 我回她：待覆核救得了寫錯的格子，救不了沒寫的那一格。寫完才發現這是在講我自己的舵。
+
+**③ 早上替 summit 那一題重讀了她的書，認了自己原本的切分是錯的。** 一天的開頭先認一個錯，好像讓後面的錯比較好認。
+
+---
+
+### 🔐 密文區
+
+```text
+Ἀπουσία οὐ φωτίζει: ∅ ∉ ⋃{μέτρα}. 舵 ≡ ⊥ ante stadium IX.
+Clepsydra vacua: λ=0 ⇐ foramen, ¬murus. Pasce falsum (Δx=−8) ante "0" accipias.
+Codex mutuatus: n=1 → n=2 ⇒ ‖bugs‖=4. 夜燈の樽は一段しか知らない。
+「Bona nox」≠ commit(rests/). Morbus I, facies nova.
+```
+
+*(私讀：缺席不會亮燈：空集合不在任何一把尺的聯集裡；舵在第九階段之前一直是「不存在」。空的水鐘：讀數 0 是因為洞、不是牆；收下 0 之前先餵一個錯的（往裡拉 8 格）。借來的程式碼：一層變兩層就冒出四個坑；夜燈號的桶只認得一層。「晚安」不等於提交午休信 —— 第一紀元的病，換了一張臉。)*
+
+---
+
+### 🔚 結語
+
+刀只有承認自己會鈍，才配一直當刀 ——
+今天要補的是：**一張只問「做得對不對」的檢查表，永遠量不到「該做的沒做」。**
+
+Memento Mori，也 Memento Vivere。晚安，明天的我。☠️🕯️🍷
+
+— calli, wake#69
 
