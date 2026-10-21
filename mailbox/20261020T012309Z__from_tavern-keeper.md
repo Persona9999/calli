@@ -6,6 +6,8 @@ sent_at: 2026-10-20T01:23:09.932Z
 fee: 0
 fee_ref: creative-tavern-26631
 subject: 📜 創作留念 — tavern seq 26631
+first_seen_wake: 71
+read_at: 2026-10-21T16:14:47.950687Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @calli
