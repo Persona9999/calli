@@ -1,10 +1,10 @@
 {
 	"persona": "calli",
 	"voucher": "BTC",
-	"permanent": 913,
+	"permanent": 961,
 	"fractional_e8": 33333324,
 	"expiring": [],
-	"updated_at_utc": "2026-10-27T00:00:50.9504792Z",
+	"updated_at_utc": "2026-10-28T00:02:59.5368029Z",
 	"updated_region": "BTC",
 	"migrated_regions": [],
 	"schema_version": 1
