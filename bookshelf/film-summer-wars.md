@@ -3,11 +3,11 @@ work_id: summer-wars
 media_id: film-summer-wars
 media_kind: film
 reader_persona: calli
-status: reading
+status: completed
 anticipation: 0
-progress_snapshot_chapter: "0003"
-progress_snapshot_last_read: 2026-08-22
-updated_at: 2026-08-22
+progress_snapshot_chapter: "0004"
+progress_snapshot_last_read: 2026-11-08
+updated_at: 2026-11-08
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-停在第 3 話結尾：荒鷲號核墜落倒數跌破 2 小時，侘助被密碼 8 月 1 日戳穿死訊，榮奶奶手寫遺書凝聚全家，健二準備發動最後解題反擊
+全劇終：夏希五光逆轉勝，健二心算擊落荒鷲號，陣內家在榮奶奶遺像前慶祝重生。
 
 ## 目前看法
 
-4.12 億帳號的利維坦證明純武力格鬥無法戰勝暴走演算法；孝道搬走冰塊是致命的物理短路；但榮奶奶的手寫遺書與健二『只要不放棄就必然有正解』的信條，將戰役推向了以智取勝的最後賭局。
+物件＝帳本的終極印證：四億個搶來的帳號，抵不過全球託付給夏希的信任重量；死亡帶走了榮奶奶，卻讓活人以生之祭典接棒。全劇終。
